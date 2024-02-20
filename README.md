@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<i class="fa-brands fa-linkedin-in"></i>
-link = "www.linkedin.com/in/julien-murat-cakir"
+[<i class="fa-brands fa-linkedin-in"></i>]
+(link = "www.linkedin.com/in/julien-murat-cakir")
 
 
 <h3 align="left">Languages and Tools:</h3>
