@@ -21,7 +21,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/julien-murat-cakir" target="blank"><img align="center"  alt="https://www.linkedin.com/in/julien-murat-cakir" height="30" width="40" /></a>
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "www.linkedin.com/in/julien-murat-cakir"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
