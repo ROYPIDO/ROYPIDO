@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[[params.social]]
+[![params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "www.linkedin.com/in/julien-murat-cakir"
