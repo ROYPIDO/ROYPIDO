@@ -8,9 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roypido&label=Profile%20views&color=0e75b6&style=flat" alt="roypido" /> </p>
 
-- 🔭 I’m currently working on **a fullstack project (Spring/Angular)**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open source projects on Spring/Angular||React**
 
 - 💬 Ask me about **Java**
 
