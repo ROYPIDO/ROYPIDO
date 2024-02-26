@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Julien Murat CAKIR</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate fullstack developer from France </h3>
 
 ![101c1694-7e87-458e-afd5-ab65c48c468e](https://github.com/ROYPIDO/ROYPIDO/assets/114389896/1c4bcabe-a48f-491d-93a1-1761b54aef54)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **roypido@gmail.com**
 
-- ⚡ Fun fact **Chess lover**
+- I :heart: **Chess** :chess_pawn:
 
 <h3 align="left">Connect with me:</h3>
 https://www.linkedin.com/in/julien-murat-cakir/
