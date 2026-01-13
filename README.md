@@ -19,7 +19,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/julien-murat-cakir/
+https://www.linkedin.com/in/julienm-ckr/
 
 
 <h3 align="left">Languages and Tools:</h3>
