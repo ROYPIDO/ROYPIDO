@@ -12,7 +12,7 @@
 - I  :heart: **Chess** :chess_pawn:
 - 👯 I’m looking to collaborate on **open source projects on Spring/Angular||React**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** & **TypeScript**
 
 - 📫 How to reach me **roypido@gmail.com**
 
