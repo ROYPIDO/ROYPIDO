@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roypido&label=Profile%20views&color=0e75b6&style=flat" alt="roypido" /> </p>
 
 - I  :heart: **Chess** :chess_pawn:
-- 👯 I’m looking to collaborate on **open source projects on Spring/Angular||React**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 💬 Ask me about **Java** & **TypeScript**
 
